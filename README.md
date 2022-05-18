@@ -4,5 +4,4 @@ just another repository
 
 Hello!
 
-My name is Robert, I enjoy writing and testing code, learning new languages and new features about languages 
-I am already familiar with. I also enjoy video games!
+My name is Robert, I want to get back into writing code.
